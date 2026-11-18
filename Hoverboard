@@ -1,0 +1,10 @@
+import java.util.*;
+public class hoverboard
+{
+public static void main()
+{
+  Scanner sc=new Scanner(System.in);
+  System.out.println("Enter a digit");
+  int n=sc.nextInt();
+  int ch=sc.nextInt();
+  
